@@ -16,7 +16,7 @@ body {background-image:url('../images/sand.jpg')}
 
 nav a {color:#FFFFFF}
 
-nav a:hover {color:#FFFFFF;background:#D9BF8F}
+nav a:hover {color:brown;background:#D9BF8F;font-size:120%}
 
 /* -------------- Big banner image -------------- */
 
