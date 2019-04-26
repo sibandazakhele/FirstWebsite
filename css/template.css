@@ -1,0 +1,110 @@
+﻿/* ------------------- Main containers ------------------- */
+
+body {background-image:url('../images/sand.jpg')}
+
+/* -------------- Top row -------------- */
+
+#top {margin-bottom:20px;background-color:#F2E6C2;padding:10px 10px 10px 10px;border-radius:0px 0px 3px 3px}
+
+#bookings {padding-top:5px;padding-bottom:5px}
+
+/* -------------- Navigation -------------- */
+
+.navbar {background:#734636;color:#FFFFFF;font-size:14px	}
+
+.navbar-header * {color:#FFFFFF;border: 1px #FFFFFF solid}
+
+nav a {color:#FFFFFF}
+
+nav a:hover {color:#FFFFFF;background:#D9BF8F}
+
+/* -------------- Big banner image -------------- */
+
+#banner {margin-bottom:20px}
+
+#banner img {border-radius:3px 3px 3px 3px}
+
+/* -------------- Main content area -------------- */
+
+#content {border-radius:3px 3px 3px 3px; background-color:#F2E6C2; margin-bottom:20px}
+
+/* Headings */
+
+h1, h2, h3 {color:#0089AF;font-weight:normal;font-family:"Fauna One"}
+
+/* Text */
+
+p {text-align:justify}
+
+ul {list-style:circle;overflow:hidden}
+
+ol {overflow:hidden}
+
+/* Images */
+
+#content .pull-left {margin-right:10px;margin-bottom:10px}
+
+/* Tables */
+
+#table
+
+.table-bordered th, .table-bordered td {border:1px #734636 solid}
+
+.table-bordered th {background:#734636;color:#FFFFFF}
+
+/* Links */
+
+#content a {color:#734636;font-weight:bold}
+
+#content a:visited {color:#D9BF8F}
+
+#content a:hover {color:#0089AF}
+
+/* -------------- Sidebar -------------- */
+
+#sidebar {padding-top:20px}
+
+.panel-default {background:#D9BF8F}
+/* Sidebar image */ 
+
+#sidebar-image .panel-body {padding:0px}
+
+/* Testimonials */ 
+
+#testimonial .panel-heading {background:#734636;color:#FFFFFF} 
+
+#testimonial p {
+
+}
+
+/* -------------- Footer -------------- */
+
+#footer {border-radius:3px 3px 3px 3px;background:#734636;padding-top:10px;color:#FFFFFF;margin-bottom:15px}
+
+#footer a {color:#FFFFFF; :no-underline}
+
+/* ------------------- Forms ------------------- */
+
+label {
+	
+}
+
+input, select, textarea  {border: 1px #D9BF8F solid;margin-top:1px}
+
+.btn-primary {background:#734636;border-color:#734636}  
+
+.btn-primary:hover {background:#D9BF8F;border-color:#734636;color:#734636;}
+
+.error {
+	color: #f00;
+}
+
+.error-highlight {
+	border: 1px solid #f00;
+}
+
+/* ------------------- Gallery ------------------- */
+
+#gallery img {
+	margin: 12px;
+}
